@@ -1,4 +1,4 @@
-package com.adbhut.rest;
+package com.adbhut.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

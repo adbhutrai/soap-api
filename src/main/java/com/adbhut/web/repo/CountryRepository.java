@@ -1,4 +1,4 @@
-package com.adbhut.rest;
+package com.adbhut.web.repo;
 
 import javax.annotation.PostConstruct;
 import java.util.HashMap;
